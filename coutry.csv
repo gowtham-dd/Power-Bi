@@ -1,0 +1,21 @@
+StudentID,Class,Age,Gender,City
+1,10,15,M,New York
+2,10,14,F,Los Angeles
+3,10,15,M,Chicago
+4,10,15,F,Houston
+5,9,14,M,San Francisco
+6,9,14,F,Miami
+7,9,14,M,Seattle
+8,11,16,F,Boston
+9,11,16,M,Atlanta
+10,11,16,F,Dallas
+11,10,15,M,Denver
+12,10,14,F,Phoenix
+13,9,14,M,Philadelphia
+14,11,16,F,San Diego
+15,10,15,M,Las Vegas
+16,12,17,F,San Jose
+17,10,15,M,Austin
+18,11,16,F,Orlando
+19,11,16,M,Detroit
+20,11,16,F,Charlotte
