@@ -7,8 +7,8 @@ import mysql.connector
 
 # Spotify API authentication
 sp = spotipy.Spotify(auth_manager=SpotifyClientCredentials(
-    client_id='1da5b70b42714cd5805cd8c2f4deb6bc',
-    client_secret='3bf3717f303a434da852576cb21927a2'
+    client_id='',
+    client_secret=''
 ))
 
 # TiDB database connection config
